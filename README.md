@@ -9,9 +9,10 @@ Hands-on practice with Generative AI, built topic by topic: LLM apps, RAG, and m
 | `03-langchain/GROQ` | LCEL chains and model serving | Prompt, model, and parser chains with LangChain Expression Language on Groq, plus a `serve.py` API |
 | `03-langchain/Langchain RAG` | Retrieval-Augmented Generation | Data ingestion, embeddings, and vector stores with FAISS and Chroma |
 | `03-langchain/Ollama` | Local models | A small app running a model locally through Ollama |
+| `Agentic_AI_LangGraph` | Agents with LangGraph | Chatbots, tools, memory, streaming, LangSmith tracing, LangGraph Studio, MCP clients and multi-agent supervisors |
 
 ## Tech
-Python, LangChain, Groq, Ollama, FAISS, ChromaDB, OpenAI and Gemini APIs, Jupyter
+Python, LangChain, LangGraph, LangSmith, MCP, Groq, Tavily, Ollama, FAISS, ChromaDB, OpenAI and Gemini APIs, Jupyter
 
 ## Progress
 - [x] LangChain basics and LCEL chains
@@ -38,6 +39,8 @@ GROQ_API_KEY=
 OPENAI_API_KEY=
 GOOGLE_API_KEY=
 ```
+
+For the LangGraph project, see [`Agentic_AI_LangGraph/README.md`](Agentic_AI_LangGraph/README.md).
 
 ## Notes
 - API keys are read from environment variables. None are stored in this repo.
