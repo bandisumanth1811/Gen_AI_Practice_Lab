@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "too_agent": "./lg_studio_tracing.py:tool_agent"
+  },
+  "env": "../.env"
+}

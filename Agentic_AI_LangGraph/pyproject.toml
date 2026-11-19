@@ -1,0 +1,31 @@
+[project]
+name = "agenticai-langgraph"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Sumanth Bandi", email = "bandisumanth1811@gmail.com" }
+]
+requires-python = ">=3.10"
+dependencies = [
+    "dotenv>=0.9.9",
+    "fastapi>=0.162.2",
+    "ipykernel>=7.3.0",
+    "ipython>=8.39.0",
+    "langchain>=1.4.7",
+    "langchain-groq>=1.1.3",
+    "langchain-mcp-adapters>=0.3.2",
+    "langchain-tavily>=0.2.18",
+    "langgraph>=1.2.18",
+    "langgraph-cli[inmem]>=0.4.43",
+    "langsmith>=0.14.16",
+    "mcp>=1.30.0",
+    "uvicorn>=0.54.0",
+]
+
+[project.scripts]
+agenticai-langgraph = "agenticai_langgraph:main"
+
+[build-system]
+requires = ["uv_build>=0.13.1,<0.14.0"]
+build-backend = "uv_build"

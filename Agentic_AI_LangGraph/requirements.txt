@@ -1,0 +1,14 @@
+langgraph
+langsmith
+langchain
+ipykernel
+dotenv
+langchain_groq
+Ipython
+langchain_tavily
+langchain-mcp-adapters
+mcp
+fastapi 
+uvicorn
+langgraph-cli[inmem]
+langchain_prompts
