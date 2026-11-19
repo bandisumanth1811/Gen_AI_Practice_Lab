@@ -10,6 +10,7 @@ Hands-on practice with Generative AI, built topic by topic: LLM apps, RAG, and m
 | `03-langchain/Langchain RAG` | Retrieval-Augmented Generation | Data ingestion, embeddings, and vector stores with FAISS and Chroma |
 | `03-langchain/Ollama` | Local models | A small app running a model locally through Ollama |
 | `Agentic_AI_LangGraph` | Agents with LangGraph | Chatbots, tools, memory, streaming, LangSmith tracing, LangGraph Studio, MCP clients and multi-agent supervisors |
+| `Langchain Updated Version V1` | LangChain v1 | Notebooks on LangChain intro, model integration, tools and messages |
 
 ## Tech
 Python, LangChain, LangGraph, LangSmith, MCP, Groq, Tavily, Ollama, FAISS, ChromaDB, OpenAI and Gemini APIs, Jupyter
