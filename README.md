@@ -11,6 +11,7 @@ Hands-on practice with Generative AI, built topic by topic: LLM apps, RAG, and m
 | `03-langchain/Ollama` | Local models | A small app running a model locally through Ollama |
 | `Agentic_AI_LangGraph` | Agents with LangGraph | Chatbots, tools, memory, streaming, LangSmith tracing, LangGraph Studio, MCP clients and multi-agent supervisors |
 | `Langchain Updated Version V1` | LangChain v1 | Notebooks on LangChain intro, model integration, tools and messages |
+| `Langchain_Projects` | LangChain mini projects | `1. Q&A Chatbot`: a Streamlit chatbot on Groq with model, temperature and token controls and LangSmith tracking |
 
 ## Tech
 Python, LangChain, LangGraph, LangSmith, MCP, Groq, Tavily, Ollama, FAISS, ChromaDB, OpenAI and Gemini APIs, Jupyter
